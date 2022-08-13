@@ -2,6 +2,7 @@
 @section('main')
 
 
+    <x-breadcrumb />
     <x-introduction />
     <x-pricing/>
 
