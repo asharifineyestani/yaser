@@ -1,4 +1,9 @@
 @extends('layouts.master')
 @section('main')
-<x-pricing />
+
+
+    <x-introduction />
+    <x-pricing/>
+
+
 @endsection
